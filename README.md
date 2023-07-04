@@ -1,8 +1,7 @@
 # Object detection using OpenCV
 
-   
- &nbsp; Object detection using OpenCV in Python is a technique that allows you to identify and locate specific objects within an image or a video stream. OpenCV (Open Source Computer Vision Library) is a popular open-source library that provides a wide range of computer vision and image processing functions.<br>
- &emsp; OpenCV provides a powerful toolset for detecting and localizing objects in images and videos, enabling developers to build intelligent applications with object recognition capabilities.
+ Object detection using OpenCV in Python is a technique that allows you to identify and locate specific objects within an image or a video stream. OpenCV (Open Source Computer Vision Library) is a popular open-source library that provides a wide range of computer vision and image processing functions.  
+ <br> OpenCV provides a powerful toolset for detecting and localizing objects in images and videos, enabling developers to build intelligent applications with object recognition capabilities.
 ***
 
 
