@@ -38,4 +38,4 @@ Now type following command to run project...<br>
 ***
 <h3>Prerequisites:</h3>
 • Python 3.6 or later <br>
-• Tkinter library
+
