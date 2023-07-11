@@ -11,7 +11,7 @@
 
 • Clone the repository 
 
-```git clone https://github.com/manojmadam/Object_detection_using_OpenCV.git```
+```git clone https://github.com/manojmadam/Object_Detection```
 
 <h3>Step 2:</h3> 
 
