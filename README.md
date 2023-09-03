@@ -23,7 +23,7 @@
 
 Now type following command to run project...<br>
 
-```python Main.py```<br>
+```python main.py```<br>
 
 ***
  
